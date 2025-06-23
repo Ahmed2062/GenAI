@@ -1,1 +1,2 @@
 # GenAI
+This project explores the creative potential of Generative AI through two components: **text generation** using transformer-based models and **image synthesis** with GANs. We curated custom datasets by scraping poems from a website and fine-tuned GPT-2 for genre-specific writing. On the image side, we implemented and trained two GAN architectures (DCGAN and FCGAN) on MNIST Dataset to generate realistic and controlled images. The project highlights hands-on experimentation with generative models in both NLP and computer vision.
